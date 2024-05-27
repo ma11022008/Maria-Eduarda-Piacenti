@@ -1,6 +1,6 @@
 Boas vindas ao meu perfil!
 
-Meu nome é nome sobrenome
+Meu nome é Maria Eduarda Piacenti!
 
 Estou estudando na Alura,
 estou me desenvolvendo na linguagem JavaScript.
